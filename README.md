@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This chatbot will have a friendly and appropriate conversations with the user. Excluding words like "the", use "me" instead of I, and try to use the most simple word possible. 
 
 ## Getting Started
 
