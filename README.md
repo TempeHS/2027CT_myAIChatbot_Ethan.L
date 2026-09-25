@@ -1,4 +1,4 @@
-# Project Title
+# my neanderthal AI chat bot
 
 Simple overview of use/purpose.
 
